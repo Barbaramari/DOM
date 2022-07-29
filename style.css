@@ -1,0 +1,16 @@
+h1{
+    font-family:'Cormorant SC', serif;;
+    font-size: 400%;
+    text-align: center;
+    margin: 5%;
+    color: rgb(45, 11, 77);
+}
+.Excursiones{
+    background-color: rgb(207, 44, 186);
+    margin: 25px;
+    color: aliceblue;
+    justify-content: space-between;
+    text-align: center;    
+    font-family: 'Satisfy', cursive;
+    font-size: 130%;
+}
